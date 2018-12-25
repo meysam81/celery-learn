@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+celery.iml
+encodings.xml
+inspectionProfiles
+libraries
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
